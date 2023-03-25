@@ -26,7 +26,7 @@
 
             string decText = Decipher(baseAlphabet, newAlphabet, encText);
             
-            string[] lines = File.ReadAllLines("C:\\Users\\Admin\\RiderProjects\\lab2\\lab2\\hw1.txt");
+            string[] lines = File.ReadAllLines("C:\\Users\\Admin\\RiderProjects\\CryptographyLab\\Lab2\\hw1.txt");
             foreach (string line in lines) {
                 Console.WriteLine(Decipher(baseAlphabet, baseAlphabet, line));
                 Console.WriteLine();
