@@ -6,3 +6,6 @@ Caesar cipher encryption and decryption
 Alphabet substitution encryption and decryption
 ## Lab 3
 Alphabet substitution + frequency histogram
+## Lab 4
+Caesar cipher with variable key\
+Generate transposition + encipher 
