@@ -50,7 +50,7 @@ namespace Lab3 {
             string[] alphabets= {
                 "abcdefghijklmnopqrstuvwxyz",
                 "cgshpjtin-fzwokr-mqluv-b-a",
-                "w---f---z--------djte-----"
+                "zmvafqnbw--kxpjo-dhtel-g-r"
                 
             };
             
@@ -59,7 +59,7 @@ namespace Lab3 {
             encText = String.Join("", lines);
             
             new Substitution().computeFrecv(lines[1]);
-            Console.WriteLine(Decipher(alphabets[0], alphabets[1], lines[0]));
+           // Console.WriteLine(Decipher(alphabets[0], alphabets[1], lines[0]));
             Console.WriteLine(Decipher(alphabets[0], alphabets[2], lines[1]));
             
         }
