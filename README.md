@@ -9,3 +9,7 @@ Alphabet substitution + frequency histogram
 ## Lab 4
 Caesar cipher with variable key\
 Generate transposition + encipher 
+## Lab 5
+Permutations using random \
+Non uniform substitution \
+Groups printing + padding 
