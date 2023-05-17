@@ -13,3 +13,6 @@ Generate transposition + encipher
 Permutations using random \
 Non uniform substitution \
 Groups printing + padding 
+## Test
+Help functions \ 
+Lab summary \

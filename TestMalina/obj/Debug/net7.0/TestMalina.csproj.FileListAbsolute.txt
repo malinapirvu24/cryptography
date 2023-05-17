@@ -1,0 +1,15 @@
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\bin\Debug\net7.0\TestMalina.exe
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\bin\Debug\net7.0\TestMalina.deps.json
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\bin\Debug\net7.0\TestMalina.runtimeconfig.json
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\bin\Debug\net7.0\TestMalina.dll
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\bin\Debug\net7.0\TestMalina.pdb
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\TestMalina.csproj.AssemblyReference.cache
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\TestMalina.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\TestMalina.AssemblyInfoInputs.cache
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\TestMalina.AssemblyInfo.cs
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\TestMalina.csproj.CoreCompileInputs.cache
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\TestMalina.dll
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\refint\TestMalina.dll
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\TestMalina.pdb
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\TestMalina.genruntimeconfig.cache
+C:\Users\Admin\RiderProjects\CryptographyLab\TestMalina\obj\Debug\net7.0\ref\TestMalina.dll
